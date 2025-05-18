@@ -4,7 +4,7 @@
 
 This repository is a markdown version of my blog post covering the fundamentals of DNS — what it is, how it works, and why it's critical to how the internet functions.
 
-➡️ [Read the full blog on Medium]([https://medium.com/your-link-here](https://medium.com/@ankit.m0729/dns-the-internets-phonebook-a33ca037f6e6))
+➡️ [Read the full blog on Medium]([https://medium.com/your-link-here](https://medium.com/@ankit.m0729/dns-the-internets-phonebook-a33ca037f6e6)
 
 ---
 
